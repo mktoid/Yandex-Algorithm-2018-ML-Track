@@ -1,5 +1,5 @@
 # Yandex Algorithm 2018 ML Track
 
-#27 in final leaderbord
+#27 in final leaderbord (of 6785 participants)
 
-TLDR: fastText + commoncrawl + lightgbm
+fastText + commoncrawl + lightgbm
